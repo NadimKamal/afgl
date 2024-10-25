@@ -1,3 +1,5 @@
+
+            <div class="header-top">
 <div class="top-inner">
     <ul class="info-list">
         <li><i class="icon-1"></i>Mon-Fri 8:00 am-6:00 pm</li>
@@ -13,4 +15,5 @@
             <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
         </ul>
     </div>
+</div>
 </div>
