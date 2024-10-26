@@ -8,7 +8,7 @@
     </ul>
     <div class="header-info">
         <div class="search-toggler pr_30 mr_30"><i class="icon-4"></i></div>
-        <div class="login-box p_relative pr_30 mr_30"><a href="login.html">Login</a></div>
+        <div class="login-box p_relative pr_30 mr_30"><a href="{{route('signin')}}">Login</a></div>
         <ul class="social-links">
             <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
             <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>

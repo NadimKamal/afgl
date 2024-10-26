@@ -39,6 +39,9 @@
     <link href="{{asset('assets/css/module-css/cta.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/shop.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/faq.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/module-css/page-title.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/module-css/contact.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/module-css/login.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/footer.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/responsive.css')}}" rel="stylesheet">
 

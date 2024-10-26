@@ -19,12 +19,10 @@
                                 </li>
                                 <li class="dropdown"><a href="#">Membership</a>
                                     <ul>
-                                        <li class=""><a href="">Apply for Membership</a>
-
-                                        </li>
-                                        <li class=""><a href="#">Cancel Membership</a></li>
-                                        <li><a href="#">Active Member</a></li>
-                                        <li><a href="#">Silent Member</a></li>
+                                        <li><a href="{{route('apply.membership')}}">Apply for Membership</a></li>
+                                        <li><a href="{{route('cancel.membership')}}">Cancel Membership</a></li>
+                                        <li><a href="{{route('active.member')}}">Active Member</a></li>
+                                        <li><a href="{{route('silent.member')}}">Silent Member</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Fees &amp; Charges</a>
@@ -43,7 +41,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="">About</a></li>
-                                <li><a href="">Contact</a></li>
+                                <li><a href="{{route('contact')}}">Contact</a></li>
                             </ul>
                         </div>
                     </nav>

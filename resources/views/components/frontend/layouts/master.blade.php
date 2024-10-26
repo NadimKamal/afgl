@@ -6,6 +6,7 @@
 
     <div class="boxed_wrapper ltr">
         <x-Frontend.Layouts.Partial.Preloader />
+        {{-- <x-Frontend.Layouts.Partial.PageDirection /> --}}
         <div class="chat-icon"><button type="button" class="chat-toggler"><i class="icon-26"></i></button></div>
 
         <x-Frontend.Layouts.Partial.ChatPopup />
