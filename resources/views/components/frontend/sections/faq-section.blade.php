@@ -12,24 +12,24 @@
                                 porttitor tortor blandit nunc.</p>
                         </div>
                         <ul class="accordion-box">
-                            <li class="accordion block">
-                                <div class="acc-btn">
+                            <li class="accordion block active-block">
+                                <div class="acc-btn active">
                                     <h3>How To Purchase The Tickets For Groups?</h3>
                                     <div class="icon-box"><i class="icon-20"></i></div>
                                 </div>
-                                <div class="acc-content">
+                                <div class="acc-content current">
                                     <div class="text">
                                         <p>Sodales posuere facilisi metus elementum ipsum egestas amet amet mattis
                                             commodo Nunc tempor amet massa diam mauris Risus sodales interdum.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li class="accordion block active-block">
-                                <div class="acc-btn active">
+                            <li class="accordion block">
+                                <div class="acc-btn">
                                     <h3>What Equipment Do I Need For Golfing?</h3>
                                     <div class="icon-box"><i class="icon-20"></i></div>
                                 </div>
-                                <div class="acc-content current">
+                                <div class="acc-content">
                                     <div class="text">
                                         <p>Sodales posuere facilisi metus elementum ipsum egestas amet amet mattis
                                             commodo Nunc tempor amet massa diam mauris Risus sodales interdum.</p>

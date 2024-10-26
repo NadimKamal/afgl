@@ -8,8 +8,8 @@
                 <h2>Take Your Game To The <br />Next Level.</h2>
             </div>
             <div class="btn-box">
-                <a href="signup.html" class="theme-btn btn-one">become a member</a>
-                <a href="contact.html" class="theme-btn btn-two">Contact Us</a>
+                <a href="{{route('signup')}}" class="theme-btn btn-one">become a member</a>
+                <a href="{{route('contact')}}" class="theme-btn btn-two">Contact Us</a>
             </div>
         </div>
     </div>

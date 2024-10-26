@@ -19,7 +19,7 @@
                              <li><i class="fas fa-check-circle"></i>Group Membership Level</li>
                              <li><i class="fas fa-check-circle"></i>24/7 Full Support</li>
                          </ul>
-                         <div class="btn-box"><a href="about.html" class="theme-btn btn-one">Learn More</a></div>
+                         <div class="btn-box"><a href="#" class="theme-btn btn-one">Learn More</a></div>
                      </div>
                  </div>
              </div>

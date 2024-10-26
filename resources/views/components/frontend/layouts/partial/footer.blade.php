@@ -21,11 +21,11 @@
                          </div>
                          <div class="widget-content">
                              <ul class="links-list clearfix">
-                                 <li><a href="about.html">About Us</a></li>
-                                 <li><a href="courses.html">Courses</a></li>
-                                 <li><a href="index.html">Historic Timeline</a></li>
-                                 <li><a href="index.html">Career</a></li>
-                                 <li><a href="index.html">Membership</a></li>
+                                 <li><a href="#">About Us</a></li>
+                                 <li><a href="#">Courses</a></li>
+                                 <li><a href="#">Historic Timeline</a></li>
+                                 <li><a href="#">Career</a></li>
+                                 <li><a href="#">Membership</a></li>
                              </ul>
                          </div>
                      </div>
@@ -65,10 +65,10 @@
                                  </li>
                              </ul>
                              <ul class="social-links">
-                                 <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                 <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
-                                 <li><a href="index.html"><i class="fab fa-linkedin-in"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                              </ul>
                          </div>
                      </div>
@@ -78,7 +78,7 @@
      </div>
      <div class="footer-bottom centred">
          <div class="copyright">
-             <p>Copyright 2024 by <a href="index.html">GolFer</a> All Right Reserved.</p>
+             <p>Copyright 2024 by <a href="#">GolFer</a> All Right Reserved.</p>
          </div>
      </div>
  </footer>

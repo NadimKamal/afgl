@@ -6,8 +6,32 @@ use Illuminate\Http\Request;
 
 class ViewPagesController extends Controller
 {
-    public function test(){
-        return view('test');
+    public function home(){
+        return view('home');
+    }
+    public function tournaments(){
+        return view('services.tournaments');
+    }
+    public function faq(){
+        return view('services.faq');
+    }
+    public function notices(){
+        return view('services.notices');
+    }
+    public function about(){
+        return view('about');
+    }
+    public function membershipFee(){
+        return view('fees-charges.membership-fee');
+    }
+    public function otherCharges(){
+        return view('fees-charges.other-charges');
+    }
+    public function gallery(){
+        return view('gallery');
+    }
+    public function committee(){
+        return view('committee');
     }
     public function contact(){
         return view('contact');
