@@ -6,32 +6,17 @@
             <div class="animation-preloader">
                 <div class="spinner"></div>
                 <div class="txt-loading">
-                    <span data-text-preloader="g" class="letters-loading">
-                        {{__('g')}}
-                    </span>
-                    <span data-text-preloader="o" class="letters-loading">
-                        {{__('o')}}
-                    </span>
-                    <span data-text-preloader="l" class="letters-loading">
-                        {{__('l')}}
+                    <span data-text-preloader="a" class="letters-loading">
+                        {{__('a')}}
                     </span>
                     <span data-text-preloader="f" class="letters-loading">
                         {{__('f')}}
                     </span>
-                    <span data-text-preloader=" " class="letters-loading">
-                        {{__(' ')}}
+                    <span data-text-preloader="g" class="letters-loading">
+                        {{__('g')}}
                     </span>
                     <span data-text-preloader="l" class="letters-loading">
                         {{__('l')}}
-                    </span>
-                    <span data-text-preloader="i" class="letters-loading">
-                        {{__('i')}}
-                    </span>
-                    <span data-text-preloader="n" class="letters-loading">
-                        {{__('n')}}
-                    </span>
-                    <span data-text-preloader="k" class="letters-loading">
-                        {{__('k')}}
                     </span>
                 </div>
             </div>

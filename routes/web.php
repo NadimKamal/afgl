@@ -3,9 +3,9 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ViewPagesController;
 
-Route::get('/index', function () {
-    return view('index');
-});
+// Route::get('/index', function () {
+//     return view('index');
+// });
 
 Route::controller(ViewPagesController::class)->group(function(){
     Route::get('/','home')->name('home');

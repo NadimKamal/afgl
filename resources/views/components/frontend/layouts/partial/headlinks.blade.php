@@ -33,6 +33,7 @@
     <link href="{{asset('assets/css/module-css/service.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/about.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/course.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/module-css/course-details.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/funfact.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/chooseus.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/event.css')}}" rel="stylesheet">
@@ -43,6 +44,7 @@
     <link href="{{asset('assets/css/module-css/contact.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/login.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/module-css/footer.css')}}" rel="stylesheet">
+    <link href="{{asset('assets/css/module-css/news.css')}}" rel="stylesheet">
     <link href="{{asset('assets/css/responsive.css')}}" rel="stylesheet">
 
 </head>

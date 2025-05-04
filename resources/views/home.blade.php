@@ -1,6 +1,7 @@
 <x-Frontend.Layouts.Master>
     {{-- <x-Frontend.Sections.Sliders.HomePageSliderSection /> --}}
-    <x-Frontend.Sections.CommitteeSection />
+    <x-Frontend.Sections.CommitteeSectionTwo />
+    {{-- <x-Frontend.Sections.CommitteeSection /> --}}
     <x-Frontend.Sections.AboutSection />
     <x-Frontend.Sections.CourseSection />
     <x-Frontend.Sections.CounterSection />
