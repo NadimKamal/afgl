@@ -2,7 +2,7 @@
     <section class="course-section pt_140 pb_150 bg-color-1">
         <div class="auto-container">
             <h1 class="text-center mt-4 font-weight-bold">
-                {{ __('Other Charges: AFGL') }}
+                {{ __('Misc Charges: AFGL') }}
             </h1>
             <div class="container mt-4 mb-5">
                 <table class="table table-bordered table-striped text-center table-success">
