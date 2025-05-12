@@ -35,7 +35,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Vice Marshal Md Mostafa Mahmood Siddiq, GUP, afwc, acsc, psc, GD (P).</small></p>
+                                <p class="card-text"><small>Air Vice Marshal<br>Md Mostafa Mahmood Siddiq, GUP, afwc, acsc, psc, GD (P).</small></p>
                                 <p class="text-success"><b>President</b></p>
                             </div>
                         </div>
