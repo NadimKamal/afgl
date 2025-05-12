@@ -14,8 +14,7 @@
                             </figure>
                         </div>
                         <div class="lower-content">
-                            <p>Air Cdre Md Mostafa Mahmood Siddiq, GUP, afwc, acsc,
-                                psc, GD (P)</p>
+                            <p>Air Vice Marshal Md Mostafa Mahmood Siddiq, GUP, afwc, acsc, psc, GD (P).</p>
                             <p><small class="fw-bold">President</small></p>
                             <div class="link"><a href="#"><i class="icon-7"></i></a></div>
 
