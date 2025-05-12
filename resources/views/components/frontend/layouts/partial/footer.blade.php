@@ -38,8 +38,7 @@
                          <div class="widget-content">
                              <p>Tincidunt neque pretium lectus donec risus.</p>
                              <ul class="schedule-list clearfix">
-                                 <li>Mon - Fri: 9:00AM - 6:00PM</li>
-                                 <li>Sat - Sun: 8:00AM - 4:00PM</li>
+                                 <li>Everyday: 6:00AM - 6:00PM</li>
                              </ul>
                          </div>
                      </div>
@@ -57,11 +56,11 @@
                                  </li>
                                  <li>
                                      <div class="icon-box"><i class="icon-2"></i></div>
-                                     Email: <a href="mailto:example@info.com">example@info.com</a>
+                                     Email: <a href="mailto:afglktl@gmail.com">afglktl@gmail.com</a>
                                  </li>
                                  <li>
                                      <div class="icon-box"><i class="icon-5"></i></div>
-                                     Phone: <a href="tel:3336660000">333 666 0000</a>
+                                     Phone: <a href="tel:+8801769905552">+88 01769-905552</a>
                                  </li>
                              </ul>
                              <ul class="social-links">
