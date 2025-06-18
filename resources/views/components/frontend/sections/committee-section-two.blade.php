@@ -10,13 +10,13 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture1.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Chief Marshal Hasan Mahmood Khan</small></p>
-                                <p class="card-text"><small>BBP, OSP, GUP, nswc, psc, GD (P)</small></p>
+                                <p class="card-text"><small>Air Chief Marshal<br>Hasan Mahmood Khan</small></p>
+                                <p class="card-text"><small>BBP, OSP, GUP, nswc, psc</small></p>
                                 <p class="text-success"><b>Chief Patron</b></p>
                             </div>
                         </div>
@@ -30,12 +30,13 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture2.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Vice Marshal<br>Md Mostafa Mahmood Siddiq, GUP, afwc, acsc, psc, GD (P).</small></p>
+                                <p class="card-text"><small>Air Vice Marshal<br>Mostafa Mahmood Siddiq</small></p>
+                                <p class="card-text"><small>BSP, GUP, ndc, afwc, acsc, psc</small></p>
                                 <p class="text-success"><b>President</b></p>
                             </div>
                         </div>
@@ -46,13 +47,14 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
-                                alt="Card Image">
+                            <img src="{{ asset('assets/images/service/Picture3.jpg') }}" class="img-fluid rounded-circle"
+                            alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Cdre A K M Abdur Rajjaque, GUP, psc, GD (P).</small></p>
-                                <p class="text-success"><b>Chairman HR & Welfare Committee.</b></p>
+                                <p class="card-text"><small>Air Commodore<br>A K M Abdur Rajjaque</small></p>
+                                <p class="card-text"><small>GUP, psc</small></p>
+                                <p class="text-success"><b>Chairman HR & Welfare Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -67,8 +69,9 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Cdre G M Shamim Reza, psc, GD (P).</small></p>
-                                <p class="text-success"><b>Chairman Handicap Committee.</b></p>
+                                <p class="card-text"><small>Air Commodore<br>G M Shamim Reza</small></p>
+                                <p class="card-text"><small>psc</small></p>
+                                <p class="text-success"><b>Chairman Handicap Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -85,8 +88,9 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Gp Capt Abdullah-Al-Masud, GUP, afwc, psc, GD (P).</small></p>
-                                <p class="text-success"><b>Chairman Tournament Committee.</b></p>
+                                <p class="card-text"><small>Air Commodore<br>Abul Kashem Mohammed Faisal</small></p>
+                                <p class="card-text"><small>fawc, psc</small></p>
+                                <p class="text-success"><b>Chairman Tournament Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -96,13 +100,13 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture4.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Gp Capt Md Monzur-E-Alam, afwc, psc, Engg</small></p>
-                                <p class="text-success"><b>Chairman Equip & Dev Committee.</b></p>
+                                <p class="card-text"><small>Group Captain<br>M Ashraful Alam</small></p>
+                                <p class="text-success"><b>Chairman Golfing Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -135,8 +139,9 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Cdre Mohammad Sultan Mahmud Malik, psc, Engg.</small></p>
-                                <p class="text-success"><b>Chairman Audit & Fin Committee.</b></p>
+                                <p class="card-text"><small>Group Captain<br>S M Monzurul Alam</small></p>
+                                <p class="card-text"><small>BPP, afwc, psc</small></p>
+                                <p class="text-success"><b>Chairman Audit & Fin Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -146,13 +151,14 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture5.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Gp Capt G M Ali Hayder, afwc, psc, ADWC.</small></p>
-                                <p class="text-success"><b>Chairman Entertainment Committee.</b></p>
+                                <p class="card-text"><small>Group Captain<br>Mohammed Nazmul Haque</small></p>
+                                <p class="card-text"><small>psc</small></p>
+                                <p class="text-success"><b>Chairman Entertainment Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -162,13 +168,14 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/pp1.jpg') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/picture6.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wg Cdr Mohammad Abu Sadek, psc, Log</small></p>
-                                <p class="text-success"><b>Chief Executive Officer.</b></p>
+                                <p class="card-text"><small>Wing Commander<br>Muhammad Rafed Akhter Zaki</small></p>
+                                <p class="card-text"><small>psc</small></p>
+                                <p class="text-success"><b>Chairman Eqpt & Dev Committee</b></p>
                             </div>
                         </div>
                     </div>
@@ -180,13 +187,14 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/pp1.jpg') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/picture8.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wg Cdr Mohammad Abu Sadek, psc, Log</small></p>
-                                <p class="text-success"><b>Golf Captain.</b></p>
+                                <p class="card-text"><small>Wing Commander<br>M A Sadek</small></p>
+                                <p class="card-text"><small>psc</small></p>
+                                <p class="text-success"><b>CEO</b></p>
                             </div>
                         </div>
                     </div>
@@ -196,13 +204,14 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/picture8.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wg Cdr Mohammad Golam Rasul Chowdhury, psc, GD (P)</small></p>
-                                <p class="text-success"><b>Member Secretary.</b></p>
+                                <p class="card-text"><small>Wing Commander<br>M A Sadek</small></p>
+                                <p class="card-text"><small>psc</small></p>
+                                <p class="text-success"><b>Golf Captain</b></p>
                             </div>
                         </div>
                     </div>
@@ -212,13 +221,13 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture7.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Mousumi Monzur</small></p>
-                                <p class="text-success"><b>Lady Golf Captain.</b></p>
+                                <p class="card-text"><small>Squadron Leader<br>Kazi Md Hasibul Islam</small></p>
+                                <p class="text-success"><b>Member Secy</b></p>
                             </div>
                         </div>
                     </div>
