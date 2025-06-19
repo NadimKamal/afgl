@@ -121,24 +121,6 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Gp Capt Md Abu Zafar, psc, Log.</small></p>
-                                <p class="text-success"><b>Chairman Golfing Committee.</b></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row mb-4">
-            <div class="col-lg-4">
-                <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
-                    <div class="row my-auto">
-                        <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
-                                alt="Card Image">
-                        </div>
-                        <div class="col-md-6 my-auto">
-                            <div class="card-body d-flex flex-column justify-content-center">
                                 <p class="card-text"><small>Group Captain<br>S M Monzurul Alam</small></p>
                                 <p class="card-text"><small>BPP, afwc, psc</small></p>
                                 <p class="text-success"><b>Chairman Audit & Fin Committee</b></p>
@@ -147,6 +129,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row mb-4">
             <div class="col-lg-4">
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
@@ -181,8 +165,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-4">
             <div class="col-lg-4">
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
@@ -200,6 +182,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row mb-4">
             <div class="col-lg-4">
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
