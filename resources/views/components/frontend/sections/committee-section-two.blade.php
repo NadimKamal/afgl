@@ -152,7 +152,7 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/picture6.jpg') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture6.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
