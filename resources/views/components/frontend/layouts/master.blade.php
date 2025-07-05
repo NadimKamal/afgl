@@ -3,7 +3,6 @@
 <x-Frontend.Layouts.Partial.Headlinks />
 
 <body>
-
     <div class="boxed_wrapper ltr">
         <x-Frontend.Layouts.Partial.Preloader />
         {{-- <x-Frontend.Layouts.Partial.PageDirection /> --}}
@@ -21,7 +20,7 @@
     </header>
     {{-- main header end --}}
     <x-Frontend.Layouts.Partial.MobileMenu />
-    {{ $slot }}
+        {{ $slot }}
     <x-Frontend.Layouts.Partial.Footer />
     <x-Frontend.Layouts.Partial.ScrollToTop />
     </div>

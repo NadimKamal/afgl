@@ -15,8 +15,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Chief Marshal<br>Hasan Mahmood Khan</small></p>
-                                <p class="card-text"><small>BBP, OSP, GUP, nswc, psc</small></p>
+                                <p class="card-text"><small>Air Chief Marshal<br>Hasan Mahmood Khan, BBP, OSP, GUP, nswc, psc</small></p>
                                 <p class="text-success"><b>Chief Patron</b></p>
                             </div>
                         </div>
@@ -35,8 +34,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Vice Marshal<br>Mostafa Mahmood Siddiq</small></p>
-                                <p class="card-text"><small>BSP, GUP, ndc, afwc, acsc, psc</small></p>
+                                <p class="card-text"><small>Air Vice Marshal<br>Mostafa Mahmood Siddiq, BSP, GUP, ndc, afwc, acsc, psc</small></p>
                                 <p class="text-success"><b>President</b></p>
                             </div>
                         </div>
@@ -52,8 +50,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Commodore<br>A K M Abdur Rajjaque</small></p>
-                                <p class="card-text"><small>GUP, psc</small></p>
+                                <p class="card-text"><small>Air Commodore<br>A K M Abdur Rajjaque, GUP, psc</small></p>
                                 <p class="text-success"><b>Chairman HR & Welfare Committee</b></p>
                             </div>
                         </div>
@@ -69,8 +66,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Commodore<br>G M Shamim Reza</small></p>
-                                <p class="card-text"><small>psc</small></p>
+                                <p class="card-text"><small>Air Commodore<br>G M Shamim Reza, psc</small></p>
                                 <p class="text-success"><b>Chairman Handicap Committee</b></p>
                             </div>
                         </div>
@@ -83,13 +79,12 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/Picture9.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Commodore<br>Abul Kashem Mohammed Faisal</small></p>
-                                <p class="card-text"><small>fawc, psc</small></p>
+                                <p class="card-text"><small>Air Commodore<br>Abul Kashem Mohammed Faisal, fawc, psc</small></p>
                                 <p class="text-success"><b>Chairman Tournament Committee</b></p>
                             </div>
                         </div>
@@ -121,8 +116,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Group Captain<br>S M Monzurul Alam</small></p>
-                                <p class="card-text"><small>BPP, afwc, psc</small></p>
+                                <p class="card-text"><small>Group Captain<br>S M Monzurul Alam, BPP, afwc, psc</small></p>
                                 <p class="text-success"><b>Chairman Audit & Fin Committee</b></p>
                             </div>
                         </div>
@@ -140,8 +134,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Group Captain<br>Mohammed Nazmul Haque</small></p>
-                                <p class="card-text"><small>psc</small></p>
+                                <p class="card-text"><small>Group Captain<br>Mohammed Nazmul Haque, psc</small></p>
                                 <p class="text-success"><b>Chairman Entertainment Committee</b></p>
                             </div>
                         </div>
@@ -157,8 +150,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wing Commander<br>Muhammad Rafed Akhter Zaki</small></p>
-                                <p class="card-text"><small>psc</small></p>
+                                <p class="card-text"><small>Wing Commander<br>Muhammad Rafed Akhter Zaki, psc</small></p>
                                 <p class="text-success"><b>Chairman Eqpt & Dev Committee</b></p>
                             </div>
                         </div>
@@ -174,8 +166,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wing Commander<br>M A Sadek</small></p>
-                                <p class="card-text"><small>psc</small></p>
+                                <p class="card-text"><small>Wing Commander<br>M A Sadek, psc</small></p>
                                 <p class="text-success"><b>CEO</b></p>
                             </div>
                         </div>
@@ -193,8 +184,7 @@
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Wing Commander<br>M A Sadek</small></p>
-                                <p class="card-text"><small>psc</small></p>
+                                <p class="card-text"><small>Wing Commander<br>M A Sadek, psc</small></p>
                                 <p class="text-success"><b>Golf Captain</b></p>
                             </div>
                         </div>

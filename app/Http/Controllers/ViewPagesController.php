@@ -24,8 +24,14 @@ class ViewPagesController extends Controller
     public function membershipFee(){
         return view('fees-charges.membership-fee');
     }
-    public function otherCharges(){
-        return view('fees-charges.other-charges');
+    public function diffrentCharges(){
+        return view('fees-charges.different-charges');
+    }
+    public function diffrentFees(){
+        return view('fees-charges.different-fees');
+    }
+    public function monthlySubscriptions(){
+        return view('fees-charges.monthly-subscriptions');
     }
     public function gallery(){
         return view('gallery');

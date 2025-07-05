@@ -14,8 +14,6 @@ Route::controller(ViewPagesController::class)->group(function(){
     Route::get('/faq','faq')->name('faq');
     Route::get('/notices','notices')->name('notices');
     Route::get('/about','about')->name('about');
-    Route::get('/membership-fee','membershipFee')->name('membership.fee');
-    Route::get('/other-charges','otherCharges')->name('other.charges');
     Route::get('/committee','committee')->name('committee');
     Route::get('/contact','contact')->name('contact');
     Route::get('/signin','signin')->name('signin');
@@ -24,4 +22,8 @@ Route::controller(ViewPagesController::class)->group(function(){
     Route::get('/cancel-membership','cancelMembership')->name('cancel.membership');
     Route::get('/active-member','activeMember')->name('active.member');
     Route::get('/silent-member','silentMember')->name('silent.member');
+    Route::get('/membership-fee','membershipFee')->name('membership.fee');
+    Route::get('/different-charges','diffrentCharges')->name('different.charges');
+    Route::get('/different-fees','diffrentFees')->name('different.fees');
+    Route::get('/monthly-subscriptions','monthlySubscriptions')->name('monthly.subscriptions');
 });

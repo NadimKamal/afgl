@@ -29,7 +29,9 @@
                                 <li class="dropdown"><a href="#">Fees &amp; Charges</a>
                                     <ul>
                                         <li><a href="{{ route('membership.fee') }}">Membership Fee</a></li>
-                                        <li><a href="{{ route('other.charges') }}">Misc Charges</a></li>
+                                        <li><a href="{{ route('monthly.subscriptions') }}">Monthly Subscription</a></li>
+                                        <li><a href="{{ route('different.fees') }}">Different Fee</a></li>
+                                        <li><a href="{{ route('different.charges') }}">Different Charges</a></li>
                                     </ul>
                                 </li>
                                 <li class=""><a href="{{ route('committee') }}">Committee</a></li>
