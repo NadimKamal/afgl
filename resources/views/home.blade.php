@@ -1,5 +1,5 @@
 <x-Frontend.Layouts.Master>
-    {{-- <x-Frontend.Sections.Sliders.HomePageSliderSection /> --}}
+    <x-Frontend.Sections.Sliders.HomePageSliderSection />
     <x-Frontend.Sections.CommitteeSectionTwo />
     {{-- <x-Frontend.Sections.CommitteeSection /> --}}
     <x-Frontend.Sections.AboutSection />

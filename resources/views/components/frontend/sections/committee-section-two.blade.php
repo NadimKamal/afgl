@@ -1,7 +1,7 @@
 <section class="service-section centerd pt_150 pb_150">
     <div class="auto-container">
         <div class="sec-title centred mb_55">
-            <span class="sub-title">Our Facilities</span>
+            <span class="sub-title">Executive Committee</span>
             <h2>Enjoy top-tier golfing at the <br />best club around</h2>
         </div>
         <div class="row mb-4">
@@ -29,12 +29,12 @@
                 <div class="card shadow-sm border p-3 committee-card" style="height: 15rem">
                     <div class="row my-auto">
                         <div class="col-md-6">
-                            <img src="{{ asset('assets/images/service/Picture2.jpg') }}" class="img-fluid rounded-circle"
+                            <img src="{{ asset('assets/images/service/picture10.jpg') }}" class="img-fluid rounded-circle"
                                 alt="Card Image">
                         </div>
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
-                                <p class="card-text"><small>Air Vice Marshal<br>Mostafa Mahmood Siddiq, BSP, GUP, ndc, afwc, acsc, psc</small></p>
+                                <p class="card-text"><small>Air Vice Marshal<br>Mohammed Khair Ul Afsar, GUP, ndc, psc</small></p>
                                 <p class="text-success"><b>President</b></p>
                             </div>
                         </div>
