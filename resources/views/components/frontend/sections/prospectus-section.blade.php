@@ -219,7 +219,6 @@
         <ul>
             <li>Wg Cdr M A SADEK</li>
             <li>CEO & Golf Captain</li>
-            <li>CEO & Golf Captain</li>
             <li>+8801722299999 (Personal)</li>
             <li>+8801769905555 (Official)</li>
         </ul>
