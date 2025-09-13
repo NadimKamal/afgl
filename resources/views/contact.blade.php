@@ -12,7 +12,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-41"></i></div>
                             <h3>Our Location</h3>
-                            <p>1901 Thornridge Cir. Shiloh, <br />Hawaii 81063</p>
+                            <p>BAF Base Bir Uttom A. K. Khandker, <br />Kurmitula, Dhaka Cantonment.</p>
                         </div>
                     </div>
                 </div>
@@ -21,8 +21,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-42"></i></div>
                             <h3>Email Address</h3>
-                            <p><a href="mailto:contact@example.com">contact@example.com</a> (Information)<br /><a
-                                    href="mailto:support@example.com">support@example.com</a> (query)</p>
+                            <p>
+                                <a href="mailto:afglktl@gmail.com">afglktl@gmail.com</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -31,8 +32,9 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-43"></i></div>
                             <h3>Phone Number</h3>
-                            <p><a href="tel:2085550111">+208 555-0111</a> (International)<br /><a
-                                    href="tel:2085550112">+208 555-0112</a> (Local)</p>
+                            <p>
+                                <a href="tel:+8801769905552">+88 01769-905552</a>
+                            </p>
                         </div>
                     </div>
                 </div>

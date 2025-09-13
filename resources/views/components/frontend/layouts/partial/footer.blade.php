@@ -9,8 +9,7 @@
                              <h3>About</h3>
                          </div>
                          <div class="widget-content">
-                             <p>Lorem ipsum dolor sit amet consectetur diam ultricies leo etiam nibh tristique.</p>
-                             <p>odio feugiat vitae libero vestibu viverra elementum luctus.</p>
+                             <p class="text-justify">Air Force Golf Link (AFGL) at Kurmitola was established in 2013 and inaugurated in 2015. Initially developed with four greens and practice facilities.</p>
                          </div>
                      </div>
                  </div>
@@ -21,11 +20,11 @@
                          </div>
                          <div class="widget-content">
                              <ul class="links-list clearfix">
-                                 <li><a href="#">About Us</a></li>
-                                 <li><a href="#">Courses</a></li>
-                                 <li><a href="#">Historic Timeline</a></li>
-                                 <li><a href="#">Career</a></li>
-                                 <li><a href="#">Membership</a></li>
+                                 <li><a href="{{ route('membership.fee') }}">Membership Fee</a></li>
+                                 <li><a href="{{ route('about') }}">About Us</a></li>
+                                 <li><a href="{{ route('committee') }}">Committee</a></li>
+                                 <li><a href="{{ route('gallery') }}">Gallery</a></li>
+                                 <li><a href="{{ route('contact') }}">Contact</a></li>
                              </ul>
                          </div>
                      </div>
@@ -36,7 +35,6 @@
                              <h3>Working Hours</h3>
                          </div>
                          <div class="widget-content">
-                             <p>Tincidunt neque pretium lectus donec risus.</p>
                              <ul class="schedule-list clearfix">
                                  <li>Everyday: 6:00AM - 6:00PM</li>
                              </ul>
@@ -52,7 +50,7 @@
                              <ul class="info-list clearfix">
                                  <li>
                                      <div class="icon-box"><i class="icon-3"></i></div>
-                                     Add: New Hyde Park, NY 11040
+                                     BAF Base Bir Uttom A. K. Khandker, Kurmitula, Dhaka Cantonment.
                                  </li>
                                  <li>
                                      <div class="icon-box"><i class="icon-2"></i></div>
@@ -77,7 +75,11 @@
      </div>
      <div class="footer-bottom centred">
          <div class="copyright">
-             <p>Copyright 2024 by <a href="#">GolFer</a> All Right Reserved.</p>
+             <p><span class="navbar-text">
+                &copy; Technology Partner 
+                <a class="fw-bold" href="https://www.pondit.com" target="_blank">Pondit</a>
+            </span>
+            </p>
          </div>
      </div>
  </footer>
