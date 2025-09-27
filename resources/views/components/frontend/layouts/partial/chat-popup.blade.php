@@ -4,7 +4,7 @@
         <div class="close-chat"><i class="icon-24"></i></div>
         <div class="chat-form">
             <p>Please fill out the form below and we will get back to you as soon as possible.</p>
-            <form method="post" action="index.html">
+            <form method="post" action="#" enctype="multipart/form-data">
                 <div class="form-group">
                     <input type="text" name="name" placeholder="Your Name" required>
                 </div>

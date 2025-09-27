@@ -2,8 +2,10 @@
     <div class="outer-container p_relative pr_70">
         <div class="outer-box">
             <div class="left-column">
-                <figure class="logo-box mr_50"><a href="index.html"><img
-                            src="{{ asset('assets/images/air_force_golf_link_demo_logo1.png') }}" alt=""></a>
+                <figure class="logo-box mr_50">
+                    <a href="{{route('home')}}">
+                        <img src="{{ asset('assets/images/air_force_golf_link_demo_logo1.png') }}" alt="logo">
+                    </a>
                 </figure>
                 <div class="menu-area">
                     <nav class="main-menu clearfix">
