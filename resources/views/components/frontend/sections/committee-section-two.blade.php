@@ -16,7 +16,7 @@
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
                                 <p class="card-text"><small>Air Chief Marshal<br>Hasan Mahmood Khan, BBP, OSP, GUP, nswc, psc</small></p>
-                                <p class="text-success"><b>Chief Patron</b></p>
+                                <p class="text-success"><b>President</b></p>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@
                         <div class="col-md-6 my-auto">
                             <div class="card-body d-flex flex-column justify-content-center">
                                 <p class="card-text"><small>Air Vice Marshal<br>Mohammed Khair Ul Afsar, GUP, ndc, psc</small></p>
-                                <p class="text-success"><b>President</b></p>
+                                <p class="text-success"><b>Vice President</b></p>
                             </div>
                         </div>
                     </div>
