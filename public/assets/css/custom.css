@@ -1,0 +1,22 @@
+.btn-outline-custom {
+    border: 2px solid #77A96A;
+    color: #ffffff;
+    background-color: #77A96A;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: all 0.3s ease-in-out;
+}
+.btn-outline-custom:hover,
+.btn-outline-custom:focus {
+    background-color: #EFF2F2;
+    color: #6b9a60;
+    border-color: 2px solid #6b9a60;
+    box-shadow: 0 0 0 0.15rem rgba(119, 169, 106, 0.4);
+    text-decoration: none;
+}
+
+.btn-outline-custom:active {
+    background-color: #6b9a60;
+    border-color:2px solid #5f8c55;
+    color: #fff;
+}

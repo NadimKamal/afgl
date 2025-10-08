@@ -1,6 +1,6 @@
 <x-Frontend.Layouts.Master>
     {{-- contact-info-section --}}
-    <section class="contact-info-section centred pt_150">
+    <section class="contact-info-section centred pt_50 bg-color-1">
         <div class="auto-container">
             <div class="sec-title centred mb_40">
                 <span class="sub-title">Contact us</span>
@@ -12,7 +12,7 @@
                         <div class="inner-box">
                             <div class="icon-box"><i class="icon-41"></i></div>
                             <h3>Our Location</h3>
-                            <p>BAF Base Bir Uttom A. K. Khandker, <br />Kurmitula, Dhaka Cantonment.</p>
+                            <p>Kurmitula, Dhaka Cantonment.</p>
                         </div>
                     </div>
                 </div>

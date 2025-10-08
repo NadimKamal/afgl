@@ -1,4 +1,4 @@
-<section class="error-section pt_150 pb_150 centred">
+<section class="error-section pt_150 pb_150 centred bg-color-3">
     <div class="auto-container">
         <div class="content-box">
             {{-- <figure class="error-image mb_40">
@@ -9,3 +9,11 @@
         </div>
     </div>
 </section>
+
+@push('css')
+    <style>
+        .bg-color-3{
+            background-color: #DEE0E2;
+        }
+    </style>
+@endpush

@@ -2,13 +2,15 @@
     <div class="menu-backdrop"></div>
     <div class="close-btn"><i class="fas fa-times"></i></div>
     <nav class="menu-box">
-        <div class="nav-logo"><a href="{{ route('home') }}"><img src="{{ asset('assets/images/logo-3.png') }}" alt="logo" title="afgl logo"></a></div>
+        <div class="nav-logo">
+            <a href="{{ route('home') }}"><img src="{{ asset('assets/images/air_force_golf_link_demo_logo1.png') }}" alt="logo" title="afgl logo"></a>
+        </div>
         <div class="menu-outer">
         </div>
         <div class="contact-info">
             <h4>Contact Info</h4>
             <ul>
-                <li>BAF Base Bir Uttom A. K. Khandker, Kurmitula, Dhaka Cantonment.</li>
+                <li>Kurmitula, Dhaka Cantonment.</li>
                 <li><a href="tel:+8801769905552">+88 01769-905552</a></li>
                 <li><a href="mailto:afglktl@gmail.com">afglktl@gmail.com</a></li>
             </ul>

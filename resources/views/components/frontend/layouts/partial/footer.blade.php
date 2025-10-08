@@ -9,7 +9,10 @@
                              <h3>About</h3>
                          </div>
                          <div class="widget-content">
-                             <p class="text-justify">Air Force Golf Link (AFGL) at Kurmitola was established in 2013 and inaugurated in 2015. Initially developed with four greens and practice facilities.</p>
+                             <p class="text-justify mb-2">
+                                Air Force Golf Link has been developedas 9 hole Golf course in the year of 2024.
+                            </p>
+                            <a href="#" class="btn btn-outline-custom btn-sm">See More</a>
                          </div>
                      </div>
                  </div>
@@ -50,7 +53,7 @@
                              <ul class="info-list clearfix">
                                  <li>
                                      <div class="icon-box"><i class="icon-3"></i></div>
-                                     BAF Base Bir Uttom A. K. Khandker, Kurmitula, Dhaka Cantonment.
+                                     Kurmitula, Dhaka Cantonment.
                                  </li>
                                  <li>
                                      <div class="icon-box"><i class="icon-2"></i></div>

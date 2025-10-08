@@ -23,7 +23,6 @@
         {{ $slot }}
     <x-Frontend.Layouts.Partial.Footer />
     <x-Frontend.Layouts.Partial.ScrollToTop />
-    </div>
     <x-Frontend.Layouts.Partial.Footlinks />
 </body>
 
