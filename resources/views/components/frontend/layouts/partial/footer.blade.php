@@ -12,7 +12,7 @@
                              <p class="text-justify mb-2">
                                 Air Force Golf Link has been developedas 9 hole Golf course in the year of 2024.
                             </p>
-                            <a href="#" class="btn btn-outline-custom btn-sm">See More</a>
+                            <a href="{{route('about')}}" class="btn btn-outline-custom btn-sm">See More</a>
                          </div>
                      </div>
                  </div>

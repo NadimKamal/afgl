@@ -79,17 +79,19 @@
         </div>
 
         {{-- Safety Measures --}}
-        <div class="row border p-3">
-            <h5><strong>Safety Measures iro Design</strong></h5>
-            <p>
-                During designing of the AFGL, the designer sincerely considered BAF Taxi Track, Link Road of HSIA and BAF
-                Shaheen College Kurmitola to minimize the possibilities of the Golf Ball to spread onto those areas.
-                Mentionable that despite very limited total land, a good amount of land has been kept vacant towards Taxi
-                Track, Runway and Air Movement, just to ensure/maximize flight safety. Appropriate Net will be fixed towards
-                BAF Shaheen College Kurmitola in future, to ensure safety of this esteem College. In addition, main entrance
-                has been planned towards London Road (closer to ISSB) to make it easier for all members especially civilian
-                members to access the AFGL while restricting access to the Air Movement/tech area.
-            </p>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5><strong>Safety Measures iro Design</strong></h5>
+                <p>
+                    During designing of the AFGL, the designer sincerely considered BAF Taxi Track, Link Road of HSIA and BAF
+                    Shaheen College Kurmitola to minimize the possibilities of the Golf Ball to spread onto those areas.
+                    Mentionable that despite very limited total land, a good amount of land has been kept vacant towards Taxi
+                    Track, Runway and Air Movement, just to ensure/maximize flight safety. Appropriate Net will be fixed towards
+                    BAF Shaheen College Kurmitola in future, to ensure safety of this esteem College. In addition, main entrance
+                    has been planned towards London Road (closer to ISSB) to make it easier for all members especially civilian
+                    members to access the AFGL while restricting access to the Air Movement/tech area.
+                </p>
+            </div>
         </div>
 
         {{-- Greens --}}
@@ -149,24 +151,28 @@
         </div>
 
         {{-- Driving Range --}}
-        <div class="row border p-3">
-            <h5><strong>Driving Range</strong></h5>
-            <p>
-                To ensure the practice for Golfers, a Driving Range has been prepared in the northern side of base PT
-                ground. To have the safe Golfing practice specially to protect Shaheen College from hitting by the Golf
-                Ball, there is a plan to construct modern fencing in future covering three sides of the Driving Range.
-                Moreover, to beautify the Driving Range and the Golf Course as a whole, different tree of flower have been
-                planted beside the Range.
-            </p>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5><strong>Driving Range</strong></h5>
+                <p>
+                    To ensure the practice for Golfers, a Driving Range has been prepared in the northern side of base PT
+                    ground. To have the safe Golfing practice specially to protect Shaheen College from hitting by the Golf
+                    Ball, there is a plan to construct modern fencing in future covering three sides of the Driving Range.
+                    Moreover, to beautify the Driving Range and the Golf Course as a whole, different tree of flower have been
+                    planted beside the Range.
+                </p>
+            </div>
         </div>
 
         {{-- Tree Plantation --}}
-        <div class="row border p-3">
-            <h5><strong>Tree Plantation</strong></h5>
-            <p>
-                More than 500 Trees (42 types of Flower and Fruits) have already been planted specially to beautify the
-                whole Course and to demarcate different Fairways.
-            </p>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5><strong>Tree Plantation</strong></h5>
+                <p>
+                    More than 500 Trees (42 types of Flower and Fruits) have already been planted specially to beautify the
+                    whole Course and to demarcate different Fairways.
+                </p>
+            </div>
         </div>
 
         {{-- Special Features --}}
@@ -186,40 +192,46 @@
         </div>
 
         {{-- Club House --}}
-        <div class="row border p-3">
-            <h5><strong>Club House</strong></h5>
-            <p>
-                To facilitate the members especially diplomats, foreigners and civil businessmen, a Club House is going to
-                be constructed in AFGL comprising standard/modern facilities/amenities. The facilities/amenities will
-                include Banquette Hall, Restaurant, Swimming Pool, Gym, Sauna, Jacuzzi, Pro Shop, Barber Shop etc.
-            </p>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5><strong>Club House</strong></h5>
+                <p>
+                    To facilitate the members especially diplomats, foreigners and civil businessmen, a Club House is going to
+                    be constructed in AFGL comprising standard/modern facilities/amenities. The facilities/amenities will
+                    include Banquette Hall, Restaurant, Swimming Pool, Gym, Sauna, Jacuzzi, Pro Shop, Barber Shop etc.
+                </p>
+            </div>
         </div>
 
         {{-- Benefits --}}
-        <div class="row border p-3">
-            <h5><strong>Benefits of AFGL</strong></h5>
-            <p>
-                Due to existing enormous rush in KGC & AGC and because of very attractive location (beside HSIA) of AFGL, it
-                is expected that huge number of Golfers (both military and civilian) will be interested to enjoy Golfing at
-                AFGL. The AFGL will be helpful to increase the civil military relationship i.e. between Defence officers and
-                civil bureaucrats/ businessmen (local and overseas). A modern Club House will be constructed in the
-                South-Eastern side of AFGL comprising standard/modern facilities/amenities to facilitate the Golfers/members
-                especially diplomats, foreigners, and civil businessmen. However, AFGL will be one of the rare attractive
-                Golf Club where whole Golf Course will be visible from the Club House. Taxi in/out, takeoff and landing of
-                international flights can be enjoyed from the Golf Course as well as from the Club House. Moreover,
-                hopefully, there will be night Golfing facilities at AFGL in future.
-            </p>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5><strong>Benefits of AFGL</strong></h5>
+                <p>
+                    Due to existing enormous rush in KGC & AGC and because of very attractive location (beside HSIA) of AFGL, it
+                    is expected that huge number of Golfers (both military and civilian) will be interested to enjoy Golfing at
+                    AFGL. The AFGL will be helpful to increase the civil military relationship i.e. between Defence officers and
+                    civil bureaucrats/ businessmen (local and overseas). A modern Club House will be constructed in the
+                    South-Eastern side of AFGL comprising standard/modern facilities/amenities to facilitate the Golfers/members
+                    especially diplomats, foreigners, and civil businessmen. However, AFGL will be one of the rare attractive
+                    Golf Club where whole Golf Course will be visible from the Club House. Taxi in/out, takeoff and landing of
+                    international flights can be enjoyed from the Golf Course as well as from the Club House. Moreover,
+                    hopefully, there will be night Golfing facilities at AFGL in future.
+                </p>
+            </div>
         </div>
 
         {{-- Contact --}}
-        <div class="row border p-3">
-            <h5 class="text-decoration-underline"><strong>Contact Number</strong></h5>
-            <ul class="list-unstyled mb-0">
-                <li>Wg Cdr M A SADEK</li>
-                <li>CEO & Golf Captain</li>
-                <li>+8801722299999 (Personal)</li>
-                <li>+8801769905555 (Official)</li>
-            </ul>
+        <div class="row border">
+            <div class="col-md-12 border p-3">
+                <h5 class="text-decoration-underline"><strong>Contact Number</strong></h5>
+                <ul class="list-unstyled mb-0">
+                    <li>Wg Cdr M A SADEK</li>
+                    <li>CEO & Golf Captain</li>
+                    <li>+8801722299999 (Personal)</li>
+                    <li>+8801769905555 (Official)</li>
+                </ul>
+            </div>
         </div>
     </div>
 </section>
