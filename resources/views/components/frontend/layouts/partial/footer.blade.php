@@ -10,7 +10,7 @@
                          </div>
                          <div class="widget-content">
                              <p class="text-justify mb-2">
-                                Air Force Golf Link has been developedas 9 hole Golf course in the year of 2024.
+                                Air Force Golf Link has been developed as 9 hole Golf course in the year of 2024.
                             </p>
                             <a href="{{route('about')}}" class="btn btn-outline-custom btn-sm">See More</a>
                          </div>
