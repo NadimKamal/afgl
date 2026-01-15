@@ -68,7 +68,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Air Commodore Md Zahir Uddin, GUP, ndc, acsc, psc
+                                        Air Commodore<br>Md Zahir Uddin, GUP, ndc, acsc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman HR & Welfare Committee</b></p>
@@ -82,7 +82,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" 
+                            <img src="{{ asset('assets/images/service/picture15.jpg') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
@@ -91,7 +91,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Air Commodore<br>G M Shamim Reza, psc
+                                        Group Captain<br>A F Syed Faisal Uddin Ahmed, GUP, psc, GD (P)
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Handicap Committee</b></p>
@@ -116,7 +116,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Group Captain Mohammad Mamunur Rashid, fawc, psc
+                                        Group Captain<br>Mohammad Mamunur Rashid, fawc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Tournament Committee</b></p>
@@ -187,7 +187,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Group Captain Salahuddin Ahmed, GUP, afwc, psc
+                                        Group Captain<br>Salahuddin Ahmed, GUP, afwc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Entertainment Committee</b></p>
