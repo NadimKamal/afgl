@@ -107,7 +107,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/picture13.jpg') }}" 
+                            <img src="{{ asset('assets/images/service/picture18.jpg') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
@@ -116,7 +116,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Group Captain<br>Mohammad Mamunur Rashid, fawc, psc
+                                        Group Captain<br>Muhammad Arman Ullah Chowdhury, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Tournament Committee</b></p>
@@ -272,7 +272,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/Flip-Picture7.jpg') }}" 
+                            <img src="{{ asset('assets/images/service/picture17.jpg') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
@@ -281,10 +281,10 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Squadron Leader<br>Kazi Md Hasibul Islam
+                                        Wing Commander<br>Kazi Md Hasibul Islam
                                     </small>
                                 </p>
-                                <p class="text-success mb-0"><b>Member Secy</b></p>
+                                <p class="text-success mb-0"><b>Member Secretary</b></p>
                             </div>
                         </div>
                     </div>
