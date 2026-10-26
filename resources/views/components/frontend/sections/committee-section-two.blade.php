@@ -59,7 +59,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/picture14.jpeg') }}" 
+                            <img src="{{ asset('assets/images/service/picture12.jpg') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
@@ -68,7 +68,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Air Commodore<br>Md Zahir Uddin, GUP, ndc, acsc, psc
+                                        Air Commodore<br>Salahuddin Ahmed, GUP, afwc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman HR & Welfare Committee</b></p>
@@ -162,7 +162,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Group Captain<br>S M Monzurul Alam, BPP, afwc, psc
+                                        Air Commodore<br>S M Monzurul Alam, BPP, afwc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Audit & Fin Committee</b></p>
@@ -178,7 +178,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/picture12.jpg') }}" 
+                            <img src="{{ asset('assets/images/service/dp.png') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
@@ -187,7 +187,7 @@
                             <div class="card-body d-flex flex-column justify-content-center h-100">
                                 <p class="card-text mb-1">
                                     <small>
-                                        Group Captain<br>Salahuddin Ahmed, GUP, afwc, psc
+                                        Group Captain<br>Walid Ahmed Shishir, GUP, BPP, awc, psc
                                     </small>
                                 </p>
                                 <p class="text-success mb-0"><b>Chairman Entertainment Committee</b></p>
