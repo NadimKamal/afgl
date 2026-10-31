@@ -178,7 +178,7 @@
                     <div class="row align-items-center h-100">
                         {{-- Image --}}
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0 p-0">
-                            <img src="{{ asset('assets/images/service/dp.png') }}" 
+                            <img src="{{ asset('assets/images/service/picture19.jpg') }}" 
                                  class="img-fluid rounded-circle mx-auto d-block card-img" 
                                  alt="Card Image">
                         </div>
